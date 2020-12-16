@@ -19,3 +19,12 @@ Kumar](https://avatars0.githubusercontent.com/u/60409225?s=460&u=2759f3e7caf5ab1
 
 -   Ready To Start
 -   Loading .....
+
+
+## Instruction 
+- Complete one section in Udemy
+- keep your program file in folders
+- switch to your branch 
+- create issue / edit issue 
+- commit in your branch (Do not delete branch ! )
+- close issue and mention someone .
